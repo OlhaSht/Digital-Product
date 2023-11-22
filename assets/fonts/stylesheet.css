@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Averta Demo PE Cutted Demo';
+    src: url('AvertaDemoPECuttedDemo-Regular.eot');
+    src: url('AvertaDemoPECuttedDemo-Regular.eot?#iefix') format('embedded-opentype'),
+        url('AvertaDemoPECuttedDemo-Regular.woff2') format('woff2'),
+        url('AvertaDemoPECuttedDemo-Regular.woff') format('woff'),
+        url('AvertaDemoPECuttedDemo-Regular.ttf') format('truetype'),
+        url('AvertaDemoPECuttedDemo-Regular.svg#AvertaDemoPECuttedDemo-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '';
+    src: url('AvertaDemoPE-ExtraBold.eot');
+    src: url('AvertaDemoPE-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('AvertaDemoPE-ExtraBold.woff2') format('woff2'),
+        url('AvertaDemoPE-ExtraBold.woff') format('woff'),
+        url('AvertaDemoPE-ExtraBold.ttf') format('truetype'),
+        url('AvertaDemoPE-ExtraBold.svg#AvertaDemoPE-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}

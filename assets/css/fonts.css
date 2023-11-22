@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'Averta Demo PE Cutted Demo';
+  src: url('../fonts/AvertaDemoPECuttedDemo-Regular.eot');
+  src: url('../fonts/AvertaDemoPECuttedDemo-Regular.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/AvertaDemoPECuttedDemo-Regular.woff2') format('woff2'),
+      url('../fonts/AvertaDemoPECuttedDemo-Regular.woff') format('woff'),
+      url('../fonts/AvertaDemoPECuttedDemo-Regular.ttf') format('truetype'),
+      url('../fonts/AvertaDemoPECuttedDemo-Regular.svg#AvertaDemoPECuttedDemo-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Averta Demo PE Cutted Demo';
+  src: url('../fonts/AvertaDemoPE-ExtraBold.eot');
+  src: url('../fonts/AvertaDemoPE-ExtraBold.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/AvertaDemoPE-ExtraBold.woff2') format('woff2'),
+      url('../fonts/AvertaDemoPE-ExtraBold.woff') format('woff'),
+      url('../fonts/AvertaDemoPE-ExtraBold.ttf') format('truetype'),
+      url('../fonts/AvertaDemoPE-ExtraBold.svg#AvertaDemoPE-ExtraBold') format('svg');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
