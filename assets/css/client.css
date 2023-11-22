@@ -1,5 +1,32 @@
 
 .client-block{
+  display: inline-flex;
   width: 90%;
+  height: 17.5rem;
   margin: auto;
+}
+.client-info{
+  width: 20%;
+  /* background-color: pink; */
+}
+.client-title{
+  padding-top: 3rem;
+}
+.client-note{
+  padding-top: 3rem;
+  line-height: 1.6rem;
+}
+
+.client-logo{
+  width: 80%;
+  padding-top: 8rem;
+  /* background-color:yellow; */
+}
+.logo-item:nth-child(3){
+  padding-bottom: 1rem;
+  /* background-color:red; */
+}
+.logo-item{
+  padding-left: 5.1rem;
+  /* background-color:aqua; */
 }
