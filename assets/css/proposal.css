@@ -1,0 +1,84 @@
+
+.proposal-blok{
+  width: 90%;
+  height: 800px;
+  margin: auto;
+  display: inline-flex;
+}
+.proposal-info{
+width: 28%;
+position: relative;
+/* background-color:pink; */
+}
+.proposal-title{
+  padding-top: 19rem;
+  line-height: 3rem;
+}
+.proposal-note{
+  padding-top: 2rem;
+  line-height: 1.8rem;
+}
+.decor-info-yelow{
+  position: absolute;
+  transform: rotate(180deg);
+  left: -3rem;
+  top: 15rem;
+  z-index: -2;
+}
+.dot-info{
+  position: absolute;
+  bottom: 0;
+  z-index: -2;
+}
+.proposal-wrapper{
+  width: 70%;
+  display: inline-flex;
+  position: relative;
+}
+.decor-info-blu{
+  position: absolute;
+  top: 9rem;
+  right: 1rem;
+  z-index: -1;
+}
+.point-blok-left{
+  margin-left: 8rem;
+  background-color:aqua;
+}
+.point-blok-right{
+  margin-left: 7rem;
+  background-color: pink
+}
+.proposal-point{
+  width: 20rem;
+  height: 23rem;
+  margin-top: 7rem;
+  border-radius: 40px;
+  border: 1px solid #f2f2f2;
+  box-shadow: 0px 10px 50px 0px rgba(0 0 0 0.05);
+  background-color: #fff;
+  text-align: center;
+}
+.point-img{
+  width: 7.5rem;
+  height: 7.5rem;
+  margin: auto;
+  margin-top: 2rem;
+  background-color:#F1F7FF;
+  border-radius: 20px;
+}
+.point-logo{
+  padding-top: 1rem;
+}
+.point-info{
+  width: 80%;
+  margin: auto;
+}
+.point-title{
+  padding-top: 2rem;
+}
+.point-note{
+  padding-top: 2rem;
+  line-height: 1.4rem;
+  color:var(--font-color-small);
+}

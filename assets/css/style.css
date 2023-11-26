@@ -4,6 +4,7 @@
   --darck-color: #000000;
   --button-color: #2639ED;
   --font-color: #565656;
+  --font-color-small: #757575;
   font-size: 16px;
   font-weight: 400;
   font-family: 'Averta Demo PE Cutted Demo'; 
@@ -24,4 +25,8 @@ h2{
 p{
   font-weight: 400;
   color: var(--font-color);
+}
+h3{
+  font-size: 1.5rem;
+  font-weight: 600;
 }
