@@ -43,6 +43,7 @@ position: relative;
 }
 .point-blok-left{
   margin-left: 8rem;
+  margin-top: 7rem;
   background-color:aqua;
 }
 .point-blok-right{
@@ -52,12 +53,15 @@ position: relative;
 .proposal-point{
   width: 20rem;
   height: 23rem;
-  margin-top: 7rem;
+  /* margin-top: 7rem; */
   border-radius: 40px;
   border: 1px solid #f2f2f2;
   box-shadow: 0px 10px 50px 0px rgba(0 0 0 0.05);
   background-color: #fff;
   text-align: center;
+}
+.proposal-point:nth-child(2){
+  margin-top: 7rem;
 }
 .point-img{
   width: 7.5rem;
