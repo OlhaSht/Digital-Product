@@ -11,9 +11,7 @@
   width: 50%; 
   position: relative;
 }
-.video-img{
-  
-}
+
 .circle-img{
   position: absolute;
   right: 50px;
@@ -32,11 +30,12 @@
   z-index: -1;
 }
 .product-text{
-  width: 70%;
+  width: 92%;
   padding-top: 5rem;
   /* background-color:yellow */
 }
 .product-title{
+  width: 70%;
   line-height: 3rem;
 }
 .product-note{
